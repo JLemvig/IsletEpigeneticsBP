@@ -8,3 +8,5 @@ Encoding: UTF-8
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://github.com/JLemvig/IsletEpigeneticsBP
+BugReports: https://github.com/JLemvig/IsletEpigeneticsBP/issues
